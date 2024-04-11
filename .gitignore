@@ -1,0 +1,7 @@
+build/
+node_modules/
+
+# Idea
+vcs.xml
+modules.xml
+*.iml
