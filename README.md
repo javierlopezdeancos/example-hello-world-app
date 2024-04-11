@@ -1,4 +1,5 @@
 # Example hello world app
+![GitHub License](https://img.shields.io/github/license/javierlopezdeancos/example-hello-world-app)
 ![Docker Image Size](https://img.shields.io/docker/image-size/javierland/example-hello-world-app)
 
 ## Description and purpose
